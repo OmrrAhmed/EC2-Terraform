@@ -18,3 +18,6 @@ This simple Terraform script deploys the following infrastructure:
 	
     - The other EC2 instance will be deployed in the private subnet. Access to the EC2 instance in the private subnet 
       will be facilitated by a bastion host deployed in the public subnet.
+
+
+![WhatsApp Image 2024-10-20 at 2 59 07 PM](https://github.com/user-attachments/assets/9d078c6d-64d1-442b-8a0f-2d082e9a484e)
